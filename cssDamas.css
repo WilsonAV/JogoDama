@@ -44,3 +44,14 @@ table{
 				margin: 0px;
 				
 			}
+
+			tr, td{
+				border-color: black;
+				border-style: solid;
+				
+			}
+
+			td{
+				width: 150px;
+				height: 150px;
+			}
