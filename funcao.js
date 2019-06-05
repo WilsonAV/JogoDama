@@ -1,12 +1,13 @@
 var cont = 0;
+var contImage= 0;
 
 $(document).ready(function () {
 	$("#botao").click(function () {
+		$(".jogo").empty();
+		contImage= 0;
 		CriarElementos();
 	});
 });
-
-var contImage= 0;
 
 function CriarElementos() {
 	for (let index = 0; index < 4; index++) {
