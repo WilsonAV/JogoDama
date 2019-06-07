@@ -1,46 +1,36 @@
-.branco{
-	background-color: rgb(256,256,256);
-	width: 70px;
-	height: 70px;
-	border-collapse: 5px;
-	border:solid;
-	border: 1px solid green;
+h1 {
+	text-align: center;
 }
-.preto{
-	background-color: rgb(0,0,0);
-	width: 70px;
-	height: 70px;
-	border-collapse: 5px;
-	border:solid;
-	border: 1px solid green;
+
+.buttonSection{
+	width: 50%;	
+	margin: auto;
+	text-align: center;
+	
 }
 
 table{
-
 	border:solid;
-	border: 1px solid green;
+
 }
-#botao{
-			margin-left: 19px;
-			 height:45px; 
-			 width:70px; 
-			 font-size:20px;
-		}
-		.bloco1{
-			display: inline-block;
-			margin-left: 20px;
-			margin-right: 70px;
-		}
 
-		.topo{
-			display: block;
-			margin-left: 150px;
-		}
+.button-style{
+	width: 75px;
 
-			.play{
-				width: 100px;
-				height: 100px;
-				border: none;
-				margin: 0px;
-				
-			}
+}
+
+.bloco1{
+	text-align: center;
+}
+
+td{
+	width: 100px;
+	height: 100px;
+	margin: 15px;
+	border: solid 1px black;
+	text-align: center;
+}
+
+bloco2 {
+	text-align: center;
+}
