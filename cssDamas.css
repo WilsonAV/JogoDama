@@ -9,7 +9,13 @@ h1 {
 	
 }
 
+img {
+	width: 200px;
+	height: 200px;
+}
+
 table{
+	text-align: center;
 	border:solid;
 
 }
